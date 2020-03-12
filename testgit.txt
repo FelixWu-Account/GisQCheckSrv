@@ -1,3 +1,8 @@
 git is well-uesd.
 I add one row now.
-测试第三行，随便测四
+<<<<<<< HEAD
+测试第三行
+=======
+测试第三行
+aaa & ccc
+>>>>>>> dev
